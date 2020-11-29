@@ -1,0 +1,10 @@
+{
+    "type": "postgres",
+    "host": "tuffi.db.elephantsql.com",
+    "port": 5432,
+    "username": "lbejiroa",
+    "password": "ZtYio277l3U34w-ZPMpiQvGQhhiqtGH8",
+    "database": "lbejiroa",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true
+  }
